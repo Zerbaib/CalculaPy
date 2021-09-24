@@ -13,7 +13,8 @@ Il faut lire pour ne pas se rater.
 
 ### Installation
 
-_exemple_: Executez la commande ``pip install tkinter`` pour avoir le module tkinter et utiliser le projet.
+_Etape 1 (la seule etape)_:
+Executez la commande ``pip install tkinter`` pour avoir le module tkinter et utiliser le projet.
 
 ## Démarrage
 
@@ -21,8 +22,8 @@ Executer le fichier main.py
 
 ## Fabriqué avec
 
-_exemples :_
-* [Geany](http://geany.org) - Editeur de texte
+_Le logiciel :_
+* [Geany](http://geany.org) - Editeur de texte + me permet d'executer le projet pour le tester.
 
 ## Auteurs
 
