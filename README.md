@@ -1,10 +1,10 @@
 # CalculaPy
 
-Une calculatrice qui permet de ... calculer grace a python
+Une calculatrice qui permet de ... calculer grace a python.
 
 ## Pour commencer
 
-IL faut lire pour ne pas se rater
+Il faut lire pour ne pas se rater.
 
 ### Pré-requis
 
@@ -13,11 +13,11 @@ IL faut lire pour ne pas se rater
 
 ### Installation
 
-_exemple_: Executez la commande ``pip install tkinter`` pour avoir le module tkinter et utiliser le projet
+_exemple_: Executez la commande ``pip install tkinter`` pour avoir le module tkinter et utiliser le projet.
 
 ## Démarrage
 
-Execcuter le fichier main.py
+Executer le fichier main.py
 
 ## Fabriqué avec
 
