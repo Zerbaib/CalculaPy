@@ -26,7 +26,7 @@ Executer le fichier main.py
 - [x] Le systeme de X et /
 - [x] Le systeme de virgule
 - [ ] Le rendre beau
-- [ ] Le re,dre ergonomique
+- [ ] Le rendre ergonomique
 
 ## Fabriqué avec
 
