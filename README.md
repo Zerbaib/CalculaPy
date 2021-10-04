@@ -20,6 +20,14 @@ Executez la commande ``pip install tkinter`` pour avoir le module tkinter et uti
 
 Executer le fichier main.py
 
+## A faire
+
+- [x] Le systeme de base
+- [x] Le systeme de X et /
+- [x] Le systeme de virgule
+- [ ] Le rendre beau
+- [ ] Le re,dre ergonomique
+
 ## Fabriqué avec
 
 _Le logiciel :_
