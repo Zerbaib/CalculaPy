@@ -3,6 +3,15 @@
 #--------------
 from tkinter import * # Tkinter
 
+#--------
+# START :
+#--------
+print("##################################################")
+print("##################################################")
+print("########## -  - CREATE BY: ZERBAIB -  - ##########")
+print("##################################################")
+print("##################################################")
+
 #---------
 # CLASSE :
 #---------
@@ -150,6 +159,7 @@ fen.geometry("200x240") # Définition de la fenêtre
 fen.title("Calculatrice") # Titre de la calculatrice
 fen["bg"]= "SkyBlue2" # Coleur de la fenêtre
 fen["relief"] = "raised" # Profondeur de la fenêtre
+
 #------------
 # PROGRAMME :
 #------------
