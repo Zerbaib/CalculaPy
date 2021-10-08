@@ -13,8 +13,26 @@ Il faut lire pour ne pas se rater.
 
 ### Installation
 
-_Etape 1 (la seule etape)_:
-Executez la commande ``pip install tkinter`` pour avoir le module tkinter et utiliser le projet.
+_Etape 1_:
+Executez la commande:
+ ```pip install tkinter```
+ pour avoir le module Tkinter et utiliser le projet.
+
+_Etape 2_:
+Executer:
+ ```git clone https://github.com/Zerbaib/CalculaPy.git```
+ pour avoir les fichier de l'app
+
+
+_Etape 3_:
+Executer:
+ ```cd CalculaPy```
+ pour allez dans le dossier du logicel
+
+_Etape 4_:
+Executer:
+ ```python main.py```
+ pour executer le code
 
 ## Démarrage
 
