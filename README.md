@@ -1,56 +1,52 @@
 # CalculaPy
 
-Une calculatrice qui permet de ... calculer grace a python.
+A calculator that allows you to ... calculate using python.
 
-## Pour commencer
+## To start
 
-Il faut lire pour ne pas se rater.
+You have to read so as not to miss it.
 
-### Pré-requis
+### Prerequisites
 
-- Python 3 (j'utilise le 3.9.1)
-- avec le module TKinter
+- Python 3 (I am using 3.9.1)
+- with the TKinter module
 
 ### Installation
 
-_Etape 1_:
-Executez la commande:
+_Step 1_:
+Execute the command:
  ```pip install tkinter```
- pour avoir le module Tkinter et utiliser le projet.
+ to have the Tkinter module and use the project.
 
-_Etape 2_:
-Executer:
+_Step 2_:
+Execute:
  ```git clone https://github.com/Zerbaib/CalculaPy.git```
- pour avoir les fichier de l'app
+ to get the app files
 
 
-_Etape 3_:
-Executer:
+_Step 3_:
+Execute:
  ```cd CalculaPy```
- pour allez dans le dossier du logicel
+ to go to the software folder
 
-_Etape 4_:
-Executer:
+_Step 4_:
+Execute:
  ```python main.py```
- pour executer le code
+ to run the code
 
-## Démarrage
+## To do
 
-Executer le fichier main.py
+- [x] The basic system
+- [x] The system of X and /
+- [x] The comma system
+- [ ] Make it beautiful
+- [ ] Make it ergonomic
 
-## A faire
+## Made with
 
-- [x] Le systeme de base
-- [x] Le systeme de X et /
-- [x] Le systeme de virgule
-- [ ] Le rendre beau
-- [ ] Le rendre ergonomique
+_The software :_
+* [Geany](http://geany.org) - Text editor + allows me to run the project to test it.
 
-## Fabriqué avec
+## **Auteurs**
 
-_Le logiciel :_
-* [Geany](http://geany.org) - Editeur de texte + me permet d'executer le projet pour le tester.
-
-## Auteurs
-
-* **Zerbaib** _alias_ [@ZerbaibDev](https://github.com/Zerbaib)
+* **Zerbaib** _a.k.a_ [@ZerbaibDev](https://github.com/Zerbaib)
