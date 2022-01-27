@@ -15,7 +15,7 @@ You have to read so as not to miss it.
 
 _Step 1_:
 Execute the command:
- ```pip install tkinter```
+ ```pip3 install tkinter```
  to have the Tkinter module and use the project.
 
 _Step 2_:
@@ -31,7 +31,7 @@ Execute:
 
 _Step 4_:
 Execute:
- ```python main.py```
+ ```python3 main.py```
  to run the code
 
 ## To do
